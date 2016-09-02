@@ -1,1 +1,1 @@
-# bot_competition
+# BOT Competition
